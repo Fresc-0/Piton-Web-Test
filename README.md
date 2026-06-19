@@ -1,4 +1,4 @@
-# Piton & GNS Web Test Projesi [cite: 12]
+# Piton & GNS Web Test Projesi 
 
 Bu repository, PITON Technology iş başvuru süreci kapsamında hazırlanan UI Test Otomasyonu ve Kurumsal Web Siteleri Keşifçi Test süreçlerini içermektedir.
 
