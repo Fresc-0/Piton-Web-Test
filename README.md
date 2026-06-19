@@ -2,7 +2,7 @@
 Bu proje, Piton Technology teknik değerlendirme süreci kapsamında hazırlanmıştır.
 
 ## Kullanılan Teknolojiler
-- Test Otomasyonu: Playwright (JavaScript/TypeScript)
+- Test Otomasyonu: Playwright (TypeScript)
 - Manuel Test & Raporlama: Microsoft Excel / Word
 
 ## Proje Yapısı ve Kurulum
