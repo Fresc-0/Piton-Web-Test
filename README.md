@@ -1,14 +1,23 @@
-# Piton-Web-Test
-Bu proje, Piton Technology teknik değerlendirme süreci kapsamında hazırlanmıştır.
+# Piton & GNS Web Test Projesi [cite: 12]
 
-## Kullanılan Teknolojiler
-- Test Otomasyonu: Playwright (TypeScript)
-- Manuel Test & Raporlama: Microsoft Excel / Word
+Bu repository, PITON Technology iş başvuru süreci kapsamında hazırlanan UI Test Otomasyonu ve Kurumsal Web Siteleri Keşifçi Test süreçlerini içermektedir.
 
-## Proje Yapısı ve Kurulum
-1. Projeyi bilgisayarınıza indirdikten sonra terminalde `npm install` komutu ile gerekli kütüphaneleri kurun.
-2. Otomasyon testlerini çalıştırmak için `npx playwright test` komutunu kullanabilirsiniz.
+## 🚀 Kullanılan Teknolojiler
+- **Framework:** Playwright (TypeScript) 
+- **Tasarım Deseni:** Page Object Model (POM) 
 
-## Proje İçeriği
-- Bölüm A için hazırlanan otomasyon kodları ve test senaryoları Excel dosyası.
-- Bölüm B için gnsmetal.com ve piton.com.tr sitelerine ait keşifçi test hata raporu.
+## 📁 Proje Yapısı
+- `tests/` & `test/` - Playwright otomasyon senaryoları ve sayfa nesneleri (POM).
+- `reports/` - Manuel test süreçlerine ait analizler ve bulgular:
+  -`Test Analizi ve Dokümantasyon/` - DemoQA test senaryolarını içeren Excel dokümanı.
+  -`Site Analizleri/` - gnsmetal.com ve piton.com.tr platformlarına ait keşifçi test hata raporları.
+
+## 🎥 Proje Tanım ve Koşum Videosu
+Proje otomasyon testlerinin çalıştırılmasını içeren video kaydına aşağıdaki bağlantıdan ulaşabilirsiniz:
+- **Video Linki:** https://youtu.be/98HrpQhTMzc
+
+## 🛠️ Kurulum ve Testleri Çalıştırma
+
+1. Proje bağımlılıklarını yükleyin:
+```bash
+npm install
